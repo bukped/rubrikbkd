@@ -18,7 +18,7 @@ Silahkan inputkan URL yang diberikan ke sister per Kode Mata Kuliah
 ![image](https://github.com/repoulbi/rubrikbkd/assets/11188109/eca0d530-7075-46fa-a9fb-6fca7f151757)  
 ![image](https://github.com/repoulbi/rubrikbkd/assets/11188109/71b4956e-7aab-435c-a77f-606c1ac94bc1)
 
-Perwakilan dosen prodi melakukan upload di euis.ulbi.ac.id menu sk. Setelah itu sk bisa diakses dari laman repo.ulbi.ac.id/sk. 
+Perwakilan dosen prodi melakukan upload di https://euis.ulbi.ac.id/sk. Setelah itu sk bisa diakses dari laman https://repo.ulbi.ac.id/sk 
 Pilih masa LKD, pilih dokumen SK, masukkan URL SK ke dalam sister untuk laporan bimbingan PKL
 
 ### Membimbing Tugas Akhir, Tesis
