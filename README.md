@@ -29,3 +29,22 @@ Bukti berupa SK dan Log Bimbingan / Kartu Bimbingan bisa minta ke iteung dengan 
 ```txt
 iteung minta kambing
 ```
+
+# Panduan Upload SK di Euis
+Untuk memudahkan upload dan mengelompokkan SK, berikut di bawah ini tutorialnya :
+
+### 1. Scan dan masuk ke https://euis.ulbi.ac.id
+![Login Euis](assets/1.PNG)
+![Masuk Euis](assets/2.PNG)
+
+### 2. Pilih menu SK
+![Menu SK](assets/3.PNG)
+
+### 3. Cara upload SKnya bagaimana?
+Masuk ke Aplikasi Upload SK.
+![Masuk ke SK](assets/4.PNG)
+Untuk upload SK anda harus memilih terlebih dahulu tahun ajarannya.
+![Memilih Tahun Ajaran](assets/5.PNG)
+Setelah itu pilih file SK yang mau di upload.
+![Pilih File SK](assets/6.PNG)
+Respon yang diberikan ketika berhasil upload SK adalah muncul card success. Selamat mencoba.
