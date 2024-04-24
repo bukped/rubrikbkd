@@ -1,5 +1,5 @@
 # rubrikbkd
-Untuk memenuhi berbagai Rubrik BKD, tata caranya sebagai berikut:
+Untuk memenuhi berbagai Rubrik BKD, tata caranya [sebagai berikut](./rubrik.pdf)
 
 ## Pelaksanaan Pendidikan
 
