@@ -1,5 +1,5 @@
 # rubrikbkd
-Untuk memenuhi berbagai Rubrik BKD, tata caranya [sebagai berikut](./rubrik.pdf)
+Untuk memenuhi berbagai Rubrik BKD, [dasar hukum](./kepdirjendikti2021.pdf) dan [info tambahan](./rubrik.pdf)
 
 ## Pelaksanaan Pendidikan
 
