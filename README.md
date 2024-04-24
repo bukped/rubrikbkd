@@ -10,6 +10,8 @@ Komentar harus detail jika tidak sesuai dengan klaim
 * karil berlaku untuk 5 semester kedepan untuk
 * kewajiban khusus berlaku setelah tmt +3 tahun bukan tmt 0-3 tahun
 
+![persentasepenulis](https://github.com/repoulbi/rubrikbkd/assets/11188109/519d351a-8e7e-4b60-8547-4afd1c777b26)
+
 ## Pelaksanaan Pendidikan
 
 ### Mengajar : Berita Acara Perkuliahan
