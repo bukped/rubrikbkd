@@ -1,6 +1,14 @@
 # rubrikbkd
 Untuk memenuhi berbagai Rubrik BKD, [dasar hukum](./kepdirjendikti2021.pdf) dan [info tambahan](./rubrik.pdf)
 
+Komentar harus detail jika tidak sesuai dengan klaim 
+
+## Kewajiban Khusus
+
+* Kalimat atau menandakan pilih salah satu bukan semuanya
+* karil berlaku untuk 5 semester kedepan untuk
+* kewajiban khusus berlaku setelah tmt +3 tahun bukan tmt 0-3 tahun
+
 ## Pelaksanaan Pendidikan
 
 ### Mengajar : Berita Acara Perkuliahan
