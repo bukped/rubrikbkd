@@ -5,6 +5,7 @@ Komentar harus detail jika tidak sesuai dengan klaim
 
 ## Kewajiban Khusus
 
+* Jurnal terakreditasi nasional artinya sinta kategori 1-6 bukan 1 dan 2 saja
 * Kalimat atau menandakan pilih salah satu bukan semuanya
 * karil berlaku untuk 5 semester kedepan untuk
 * kewajiban khusus berlaku setelah tmt +3 tahun bukan tmt 0-3 tahun
