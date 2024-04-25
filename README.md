@@ -7,14 +7,14 @@ Komentar harus detail jika tidak sesuai dengan klaim
 
 * Jurnal terakreditasi nasional artinya sinta kategori 1-6 bukan 1 dan 2 saja
 * Kalimat atau menandakan pilih salah satu bukan semuanya
-* karil berlaku untuk 5 semester kedepan (untuk klaim nilai SKS nya hanya bisa diklaim pada saat di laporkan, tidak berlaku klaim SKS selama 5 semester)
+* karil berlaku untuk 5 semester kedepan (untuk klaim AK. hanya bisa diklaim sekali saja pada saat di laporkan,bukan dapat AK dari jurnal yang sama selama 5 semester)
 * kewajiban khusus berlaku setelah tmt +3 tahun bukan tmt 0-3 tahun
 
 ![persentasepenulis](https://github.com/repoulbi/rubrikbkd/assets/11188109/519d351a-8e7e-4b60-8547-4afd1c777b26)
 
 ## Pelaksanaan Pendidikan
 
-### Mengajar : Berita Acara Perkuliahan
+### Mengajar(Maksimal AK 12) : Berita Acara Perkuliahan
 
 ![image](https://github.com/repoulbi/rubrikbkd/assets/11188109/6532e5c4-1e96-4cce-9e4c-d7e7c3109a3d)  
 ketikkan perintah ke iteung:
