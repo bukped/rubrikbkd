@@ -7,7 +7,7 @@ Komentar harus detail jika tidak sesuai dengan klaim
 
 * Jurnal terakreditasi nasional artinya sinta kategori 1-6 bukan 1 dan 2 saja
 * Kalimat atau menandakan pilih salah satu bukan semuanya
-* karil berlaku untuk 5 semester kedepan (untuk klaim AK. hanya bisa diklaim sekali saja pada saat di laporkan,bukan dapat AK dari jurnal yang sama selama 5 semester)
+* karil berlaku untuk 5 semester kedepan (untuk klaim AK. hanya bisa diklaim sekali saja pada saat di semester aktif laporan karil,bukan dapat AK dari jurnal yang sama selama 5 semester)
 * kewajiban khusus berlaku setelah tmt +3 tahun bukan tmt 0-3 tahun
 
 ![persentasepenulis](https://github.com/repoulbi/rubrikbkd/assets/11188109/519d351a-8e7e-4b60-8547-4afd1c777b26)
