@@ -20,6 +20,10 @@ Komentar harus detail jika tidak sesuai dengan klaim
 
 ### Mengajar(Maksimal AK 12) : Berita Acara Perkuliahan
 
+1. Upload SK mengajar di https://github.com/repoulbi/sk
+2. Upload bap, presensi dan nilai ke repo https://github.com/repoulbi/buktiajar atau https://github.com/repoulbi/awangga
+3. Gunakan pdf merge viewer di https://github.com/repoulbi/view dengan penggabungan antara file di repo sk dan file di repo buktiajar
+
 ![image](https://github.com/repoulbi/rubrikbkd/assets/11188109/6532e5c4-1e96-4cce-9e4c-d7e7c3109a3d)  
 ketikkan perintah ke iteung:
 ```txt
@@ -45,7 +49,8 @@ Bukti berupa SK dan Log Bimbingan / Kartu Bimbingan bisa minta ke iteung dengan 
 iteung minta kambing
 ```
 
-# Panduan Upload SK di Euis
+
+## Panduan Upload SK di Euis
 Untuk memudahkan upload dan mengelompokkan SK, berikut di bawah ini tutorialnya :
 
 ### 1. Scan dan masuk ke https://euis.ulbi.ac.id
